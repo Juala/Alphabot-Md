@@ -85,10 +85,10 @@ node main
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/zeeoneofc/aAlphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
-- Change botName on [this section](https://github.com/zeeoneofc/Alphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
-- You can edit list and display menu or donate on [this section](https://github.com/zeeoneofc/Alphabot-Md/blob/main/help/ind.js)
-- You can add fiture on [this section](https://github.com/zeeoneofc/Alphabot-Md/tree/main/message)
+- Change ownerNumber on [this section](https://github.com/Juala/aAlphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
+- Change botName on [this section](https://github.com/Juala/Alphabot-Md/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
+- You can edit list and display menu or donate on [this section](https://github.com/Juala/Alphabot-Md/blob/main/help/ind.js)
+- You can add fiture on [this section](https://github.com/Juala/Alphabot-Md/tree/main/message)
 
 
 ## Installing the FFmpeg for Windows
