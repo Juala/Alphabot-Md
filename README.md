@@ -136,4 +136,3 @@ Owner of Baileys | Owner of X-Far api |
 a href="https://github.com/Juala"><img src="https://github.com/Juala.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/xfar05.png?size=100)](http://github.com/xfar05) 
 [OWNER BOT](https://github.com/Juala) | [Fabil](https://github.com/xfar05)
 Owner of BOT | Owner of X-Far api |
-
