@@ -1,4 +1,16 @@
 <p align="center">
+<img src="https://github.com/Juala/Haruka/blob/v4/settings/20211015_204036.jpg" alt="HARUKA BOT" height = "150" width="150"/>
+
+<p align="center">
+    <a href="https://zeeoneofc.github.io">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+ROJA+BOT+🤎"
+            alt="ZeeoneOfc"
+        />
+    </a>
+</p>
+
+<p align="center">
 <img src="https://github.com/zeeoneofc/Alphabot-Md/blob/v5/image/lol.jpg" alt="ALPHA BOT" width="100"/>
 
 
