@@ -21,6 +21,7 @@
 <p align="center">
 <a href="https://github.com/Juala"><img title="Creator" src="https://img.shields.io/badge/Author-ROJA BOT-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/Juala/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-Juala-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://wa.me/qr/2QSXZ6LDRNPBH1"><img green="Whatsapp" src="https://img.shields.io/badge/Whatsapp-green-yellow.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
