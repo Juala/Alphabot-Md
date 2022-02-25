@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/zeeoneofc/Alphabot-Md/blob/v5/image/lol.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/Juala/Alphabot-Md/blob/v5/image/lol.jpg" alt="ROJA BOT" width="100"/>
 
 
 </p>
