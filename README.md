@@ -16,7 +16,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ROJA BOT MULTI DEVICE" src="https://img.shields.io/badge/ROJA BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -116,6 +116,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 - [Alphabot 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
 - [Alphabot 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
 - [Alphabot 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [ROJA STORE 1](https://chat.whatsapp.com/IUBeg6Uzam88Al5IfZLmKH)
 
 
 # Thanks to
