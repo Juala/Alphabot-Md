@@ -68,7 +68,7 @@
 
 ## For Windows/RDP
 ```bash
-git clone https://github.com/zeeoneofc/Alphabot-Md.git
+git clone https://github.com/Juala/Alphabot-Md.git
 cd Alphabot-Md
 npm install
 node main
@@ -78,7 +78,7 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg
-git clone https://github.com/zeeoneofc/Alphabot-Md.git
+git clone https://github.com/Juala/Alphabot-Md.git
 cd Alphabot-Md
 npm install
 node main
@@ -113,9 +113,6 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 - [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
 
 # Official Group
-- [Alphabot 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Alphabot 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Alphabot 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
 - [ROJA STORE 1](https://chat.whatsapp.com/IUBeg6Uzam88Al5IfZLmKH)
 
 
